@@ -1,4 +1,4 @@
-Mathematical Symbols Classification Using CNN & Traditional Machine Learning
+Mathematical number detection Using CNN & Traditional Machine Learning
 
 Project Overview
 
